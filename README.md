@@ -1,7 +1,9 @@
 # codewars-1
 Solution to 6th kyu codewars kata.
 
-### Delete occurrences of an element if it occurs more than n times
+### The challenge
+
+Delete occurrences of an element if it occurs more than n times
 
 
 Enough is enough!
